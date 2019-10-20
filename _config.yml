@@ -1,16 +1,25 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
-    url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+  little_hand_s:
+    image_url: /images/actors/little_hand_s.png
+    name: little_hand_s
+    url: https://twitter.com/little_hand_s
+  j5ik2o:
+    image_url: /images/actors/j5ik2o.png
+    name: j5ik2o
+    url: https://twitter.com/j5ik2o
+  MinoDriven:
+    image_url: /images/actors/MinoDriven.png
+    name: MinoDriven
+    url: https://twitter.com/MinoDriven
+  a_suenami:
+    image_url: /images/actors/a_suenami.png
+    name: a_suenami
+    url: https://twitter.com/a_suenami
+  
 author: alice
 description: Example description
 description_long: Example long description
-email: info@example.com
+email: dddcj.radio@gmail.com
 exclude:
   - docker
   - docker-compose.yml
@@ -20,7 +29,7 @@ exclude:
   - README.md
   - vendor
 google_analytics:
-hashtag: examplehashtag
+hashtag: dddcj
 itunes_podcast_url:
 keywords: comma,separated,keywords
 language: ja
@@ -29,5 +38,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
+title: DDD Radio
 url: http://example.com
