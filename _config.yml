@@ -1,18 +1,18 @@
 actors:
   little_hand_s:
-    image_url: /images/actors/little_hand_s.png
+    image_url: /images/actors/little_hand_s.jpg
     name: little_hand_s
     url: https://twitter.com/little_hand_s
   j5ik2o:
-    image_url: /images/actors/j5ik2o.png
+    image_url: /images/actors/j5ik2o.jpg
     name: j5ik2o
     url: https://twitter.com/j5ik2o
   MinoDriven:
-    image_url: /images/actors/MinoDriven.png
+    image_url: /images/actors/MinoDriven.jpg
     name: MinoDriven
     url: https://twitter.com/MinoDriven
   a_suenami:
-    image_url: /images/actors/a_suenami.png
+    image_url: /images/actors/a_suenami.jpg
     name: a_suenami
     url: https://twitter.com/a_suenami
   
