@@ -17,8 +17,8 @@ actors:
     url: https://twitter.com/a_suenami
   
 author: alice
-description: Example description
-description_long: Example long description
+#description: 略してDラジ
+#description_long: Example long description
 email: dddcj.radio@gmail.com
 exclude:
   - docker
