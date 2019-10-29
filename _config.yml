@@ -17,7 +17,7 @@ actors:
     url: https://twitter.com/a_suenami
   
 author: alice
-description: DDDについてトークするラジオ
+description: DDDについてトークするラジオ 略してDラジ
 #description_long: Example long description
 email: dddcj.radio@gmail.com
 exclude:
